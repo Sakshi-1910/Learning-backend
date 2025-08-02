@@ -7,5 +7,8 @@
   },
   "author": "Sakshi joshi",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
 }
