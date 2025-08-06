@@ -29,7 +29,7 @@ const userSchema = new Schema (
      },
      avatar: {
       type: String,
-      required: true
+       required: true
      },
      coverImage: {
       type: String,
@@ -43,7 +43,7 @@ const userSchema = new Schema (
       required: [true, 'Password is required']
      },
      refreshToken:{
-      type: string
+      type: String
      }
 
   },
